@@ -1,0 +1,4 @@
+make
+pandas
+pytest-cov
+pylint
